@@ -1,4 +1,5 @@
 <?php 
+	//clase que controla la administracion de la tienda online 
 	require_once ('conexion.php');
 	class Administrador
 	{
