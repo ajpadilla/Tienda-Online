@@ -1,7 +1,8 @@
 <?php 
-	//clase que controla la administracion de la tienda online
+	//clase que controla la administracion de la tienda online 
+	// 
 	require_once ('conexion.php');
-	class Administradorgit push origin master
+	class Administrador
 	{
 		private $nombre_usuario;
 		private $password;
