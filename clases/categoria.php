@@ -1,5 +1,7 @@
 <?php 
+<<<<<<< HEAD
     //clase que representa los objetos categoria libros de la tienda_online
+    // hola 
 	require_once ('conexion.php');
 	class Categoria
 	{
